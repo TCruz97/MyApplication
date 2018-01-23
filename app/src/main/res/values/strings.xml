@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="hello_world">This is the changed text</string>
+</resources>
